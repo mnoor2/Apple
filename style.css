@@ -287,6 +287,11 @@ nav{
     width: 50%;
     align-self: center;
 }
+#disclaimer{
+    display: flex;
+    text-align: center;
+    font-size: small;
+}
 @media only screen and (max-width: 950px) {
     /*Navigation*/
     #mobile-view-logo{
