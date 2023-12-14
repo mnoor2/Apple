@@ -291,6 +291,8 @@ nav{
     display: flex;
     text-align: center;
     font-size: small;
+    width: 100%;
+    justify-content: center;
 }
 @media only screen and (max-width: 950px) {
     /*Navigation*/
